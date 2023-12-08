@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interfaz>
+	<campo tipo="etiqueta" texto="Nombre y apellidos:"></campo>
+	<campo tipo="entrada" texto=""></campo>
+	<campo tipo="etiqueta" texto="Marca tu sexo:"></campo>
+	<campo tipo="check" texto="Hombre"></campo>
+	<campo tipo="check" texto="mujer"></campo>
+	<campo tipo="etiqueta" texto="Indica tu edad:"></campo>
+	<campo tipo="entrada" texto=""></campo>
+	<campo tipo="etiqueta" texto="Escribe tu direccion completa"></campo>
+	<campo tipo="nota" texto=""></campo>
+	<campo tipo="etiqueta" texto="Telefono de contacto:"></campo>
+	<campo tipo="entrada" texto=""></campo>
+	<campo tipo="etiqueta" texto="correo electronico:"></campo>
+	<campo tipo="entrada" texto=""></campo>
+	<campo tipo="boton1" texto="continuar:"></campo>
+	<campo_continuar tipo="etiqueta" texto="Elige una actividad deportiva de la lista:"></campo_continuar>
+	<campo_continuar tipo="combobox" texto="Selecciona un deporte:" values="Futbol 11, Balonmano, Futbol sala, Voleybol, Voley playa, Balonmano playa, Hockey"></campo_continuar>
+	<campo_continuar tipo="etiqueta" texto="Has jugado alguna vez a este deporte?"></campo_continuar>
+	<campo_continuar tipo="check" texto="Si"></campo_continuar>
+	<campo_continuar tipo="check" texto="No"></campo_continuar>
+	<campo_continuar tipo="etiqueta" texto="Haz un breve comentario sobre por que has elegido este deporte."></campo_continuar>
+	<campo_continuar tipo="nota" texto=""></campo_continuar>
+	<campo_continuar tipo="boton_volver" texto="Regresar a la pantalla anterior"></campo_continuar>
+	<campo_continuar tipo="boton2" texto="Enviar"></campo_continuar>
+	<campo_marco tipo="etiqueta" texto="Club deportivo CDV"></campo_marco>
+	<campo_marco tipo="etiqueta" texto="Tfno: 666-333-555"></campo_marco>
+	<campo_marco tipo="etiqueta" texto="Correo electronico: info@clubcdv.com"></campo_marco>
+	<campo_contacto tipo="boton3" texto="cerrar"></campo_continuar>
+	<campo_comentarios tipo="etiqueta" texto="Escribe tu comentario:"></campo_comentarios>
+	<campo_comentarios tipo="nota" texto=""></campo_comentarios>
+	<campo_comentarios tipo="boton4" texto="Enviar"></campo_comentarios>
+	
+	
+</interfaz>
